@@ -14,13 +14,13 @@ The following Riemann solvers are provided:
 - Steger-Warming
 - HLL
 - Lax-Friedrichs
-- Exact answers solved by open source package [lanl/ExactPack](https://github.com/chairmanmao256/Python-shock-tube)
+- Exact answers solved by open source package [lanl/ExactPack](https://github.com/lanl/ExactPack)
 
 ### Prerequisites
 - Python
 - Numpy
 - Pandas
-- [ExactPack](https://github.com/chairmanmao256/Python-shock-tube)
+- [ExactPack](https://github.com/lanl/ExactPack)
 
 ## Usage
  ```bash
